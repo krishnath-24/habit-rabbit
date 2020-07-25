@@ -6,10 +6,11 @@ A basic Habit Tracking System. Tech Stack : HTML, CSS, JS, Node.js
 # How-To-Use
 1. Clone this project
 2. Navigate to Project Directory by :
+3. run mongodb locally
 ```
 cd Habit-Rabbit
 ```
-3. run following commands :
+4. run following commands :
 ```
 npm install 
 ```
