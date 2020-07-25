@@ -7,7 +7,7 @@ A basic Habit Tracking System. Tech Stack : HTML, CSS, JS, Node.js
 1. Clone this project
 2. Navigate to Project Directory by :
 ```
-cd Habit-Rabit
+cd Habit-Rabbit
 ```
 3. run following commands :
 ```
