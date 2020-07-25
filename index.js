@@ -1,7 +1,7 @@
 // require all the modules
 const express =  require('express');
 const app = express();
-const port = process.env.port || 3000; // define the port
+const port = process.env.PORT || 3000; // define the port
 const bodyParser = require('body-parser');
 
 // set the view engine to render ejs files
